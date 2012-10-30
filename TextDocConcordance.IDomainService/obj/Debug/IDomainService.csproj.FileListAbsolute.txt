@@ -1,0 +1,7 @@
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.IDomainService\bin\Debug\TextDocConcordance.IDomainService.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.IDomainService\bin\Debug\TextDocConcordance.IDomainService.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.IDomainService\bin\Debug\TextDocConcordance.DomainModel.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.IDomainService\bin\Debug\TextDocConcordance.DomainModel.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.IDomainService\obj\Debug\ResolveAssemblyReference.cache
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.IDomainService\obj\Debug\TextDocConcordance.IDomainService.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.IDomainService\obj\Debug\TextDocConcordance.IDomainService.pdb

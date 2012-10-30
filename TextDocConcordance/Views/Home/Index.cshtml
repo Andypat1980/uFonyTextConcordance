@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<h2>@ViewBag.Message</h2>
+@using(Html.BeginForm())
+{
+    <p>
+        <textarea id="txtArea" name="txtArea" style="height:50%;width:100%" placeholder="Enter your English Text Here."></textarea>
+    </p>
+    <p>
+        <input type="submit" value="Process concordance" />
+    </p>
+    <div id="divConcordance">
+    </div>
+}

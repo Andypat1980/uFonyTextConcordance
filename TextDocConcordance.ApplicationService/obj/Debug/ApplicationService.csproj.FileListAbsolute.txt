@@ -1,0 +1,15 @@
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.ApplicationService.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.ApplicationService.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.DomainModel.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.IApplicationService.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.DomainModel.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.IApplicationService.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\obj\Debug\ResolveAssemblyReference.cache
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\obj\Debug\TextDocConcordance.ApplicationService.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\obj\Debug\TextDocConcordance.ApplicationService.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordanceDTO.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordanceDTO.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\AutoMapper.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.IDomainService.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\TextDocConcordance.IDomainService.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.ApplicationService\bin\Debug\AutoMapper.xml

@@ -1,0 +1,8 @@
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\bin\Debug\TextDocConcordance.Tests.dll.config
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\bin\Debug\TextDocConcordance.Tests.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\bin\Debug\TextDocConcordance.Tests.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\bin\Debug\TextDocConcordance.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\bin\Debug\TextDocConcordance.pdb
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\obj\Debug\TextDocConcordance.Tests.dll
+D:\Anand\AngularJS\RnD\uFonyTextConcordance\TextDocConcordance.Tests\obj\Debug\TextDocConcordance.Tests.pdb

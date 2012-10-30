@@ -1,0 +1,42 @@
+﻿@model TextDocConcordanceDTO.ConcordanceDTO
+
+@{
+    ViewBag.Title = "Concordance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Concordance</h2>
+<p>Your Input Text</p>
+<p>
+    @Html.DisplayFor(model => model.DocText)
+</p>
+<hr />
+<table>
+
+    <tr>
+        <th>
+            Concordance Word
+        </th>
+        <th>
+            Total Count
+        </th>
+        <th>
+            Occurance in Sentence
+        </th>
+    </tr>
+
+@foreach (var item in Model.Words) {
+    <tr>
+        <td>
+            @Convert.ToString(item.Words)
+        </td>
+        <td>
+            @item.ConcordanceCount
+        </td>
+        <td>
+            @Convert.ToString(item.OccuranceInSentence)
+        </td>
+    </tr>
+}
+
+</table>
