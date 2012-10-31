@@ -28,7 +28,8 @@ namespace TextDocConcordance.DomainService
         public IList<Word> GetConcordanceWordsFrom(string docText)
         {
             IList<Word> concordanceWords = new List<Word>();
-
+            
+            docText = docText.Replace("\r\n", " ");
             var wordsInDocText = (from word in docText.Split()
                                   orderby word
                                   select word).ToList();
